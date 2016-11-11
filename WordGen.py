@@ -1,7 +1,6 @@
 # *- coding:UTF-8 -*
 #WordGen
 '''
-
 __        __            _  ____            
 \ \      / /__  _ __ __| |/ ___| ___ _ __  
  \ \ /\ / / _ \| '__/ _` | |  _ / _ \ '_ \ 
@@ -39,4 +38,3 @@ def _generator(chrs,_min,_max,_out):
     except Exception as error:
         print(error)
 main()                                       
-        
